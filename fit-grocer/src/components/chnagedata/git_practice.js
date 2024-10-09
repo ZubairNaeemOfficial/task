@@ -3,19 +3,47 @@ import React from 'react'
 const git_practice = () => {
   return (
     <>
-     <div>
-      git practice 
+    <div>
+      git practice BY ZUBAIR Naeem 
+      
+    
     </div>
     <div>
-    git practice 
-  </div>
-    <div>
-      git practice 
+      git practice BY ZUBAIR Naeem 
+      
+    
     </div>
     <div>
-    git practice 
-  </div>
-  </>
+      git practice BY ZUBAIR Naeem 
+      
+    
+    </div>
+    <div>
+      git practice BY ZUBAIR Naeem 
+      
+    
+    </div>
+    <div>
+      git practice BY ZUBAIR Naeem 
+      
+    
+    </div>
+    <div>
+      git practice BY ZUBAIR Naeem 
+      
+    
+    </div>
+    <div>
+      git practice BY ZUBAIR Naeem 
+      
+    
+    </div>
+    <div>
+      git practice BY ZUBAIR Naeem 
+      
+    
+    </div>
+    </>
   )
 }
 
